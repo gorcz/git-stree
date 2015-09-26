@@ -5,3 +5,4 @@
 * Docs: maintain full help listing as a manpage, too
 * Code: install scripts?  Puts completion and man in the proper places, etc.
 * Code: Unit tests, based on Git's builtin test infrastructure
+ 
